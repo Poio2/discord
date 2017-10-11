@@ -1,2 +1,2 @@
 # discord
-Hola soy UGC, o pueden llamarme chupapij :v
+/send Hola soy UGC, o pueden llamarme chupapij :v
